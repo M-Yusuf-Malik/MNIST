@@ -1,0 +1,38 @@
+.header{
+    border: 2px solid black;
+    height: 10%;
+    width: 50%;
+    background-color:#A9A9A9 ;
+    border-radius: 2.5%;
+    margin-top: 2.5%;
+}
+
+.main{
+    border: 2px solid black;
+    height: 50%;
+    width: 50%;
+    background-color:#A9A9A9 ;
+    margin-top: 0.25%;
+    border-radius: 1.25%;
+}
+
+body{
+    background-color: rgb(63, 46, 45);
+}
+
+h2{
+    font-size: 28;
+    font-style: italic;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(48, 58, 63);
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    border: 0px solid;
+    border-radius: 2.5%;
+    background-color: rgb(63, 91, 107);
+    color: cornsilk;
+}
