@@ -1,2 +1,2 @@
 # MNIST
-A website to classify the 0-9 digits.
+A website to classify the 0-9 digits
